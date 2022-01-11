@@ -1,0 +1,9 @@
+*.so
+*.dylib
+*.app
+*.zip
+butler
+art-sources
+html-build
+potential-*
+.DS_Store
